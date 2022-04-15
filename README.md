@@ -11,3 +11,5 @@
 
 this will be the dump for the malware that i make/is public on the channel.
 this is made because youtube doesnt like me putting direct malware links in the description and just for easier downloads
+
+most of these will require winrar if they have extensions such as 7z, .vir etc (u should already know this)
