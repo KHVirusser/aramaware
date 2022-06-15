@@ -32,3 +32,19 @@ https://www.youtube.com/watch?v=54zIR5cfqo0
 🔗 Link: https://skytransfer.hns.siasky.net/#/...
 🗂️ 7z password: "QuantizerTrojanHorse"
 
+
+
+separatum_bugfix.zip: credits to hessfire
+https://www.youtube.com/c/hessfire
+password: infected
+
+
+awagga.exe: made by me
+safe to run on real machine
+idfk why theres a ransomware warning
+no password
+
+
+Gocullinator (download links).txt
+credits go to itzsten
+https://www.youtube.com/c/Itzsten
