@@ -29,7 +29,7 @@ most of these will require winrar if they have extensions such as 7z, .vir etc (
                                                                                                                            
 quantizer and monoxide.7z: credits to wipet
 https://www.youtube.com/watch?v=54zIR5cfqo0
-🔗 Link: https://skytransfer.hns.siasky.net/#/...
+🔗 Link: https://wipet.malwarewatch.org/malware/quantizer/
 🗂️ 7z password: "QuantizerTrojanHorse"
 
 
